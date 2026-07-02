@@ -1,14 +1,14 @@
 /* ===== DESIGN TOKENS ===== */
 :root {
-  --bg-primary: #031532;
-  --bg-secondary: #162032;
-  --bg-tertiary: #1c2a40;
+  --bg-primary: #b5d1ff;
+  --bg-secondary: #071f4b;
+  --bg-tertiary: #6eadfe;
   --accent-primary: #addbd6;
   --accent-secondary: #abcff1;
   --accent-gradient: linear-gradient(135deg, #d2fcf7, #9cc7ef);
-  --text-primary: #e8f0f8;
-  --text-secondary: #8899aa;
-  --text-dim: #556677;
+  --text-primary: #02172d;
+  --text-secondary: #9e9e9e;
+  --text-dim: #020d18;
   --border: #1e3048;
   --aqi-good: #4ade80;
   --aqi-satisfactory: #a3e635;
